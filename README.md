@@ -7,7 +7,7 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into actionab
 - 🔭 Currently working on: **Hotel Booking Analysis Project**
 - 🌱 Learning: **Machine Learning & Advanced SQL**
 - 👯 Looking for: **Data Analyst / MIS Executive / Business Analyst** roles
-- 📫 Reach me: **munnakumar422002.com**
+- 📫 Reach me: **munnakumar422002@gmail.com**
 - 📍 Location: **Hyderabad, Telangana, India**
 
 ---
@@ -69,7 +69,7 @@ Performed RFM analysis and clustering to identify customer segments.
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/munna-kumar-618770389/?trk=opento_sprofile_details))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:munnakumar422002@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.munnakumar422002@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
