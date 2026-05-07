@@ -61,7 +61,7 @@ Performed RFM analysis and clustering to identify customer segments.
 ## 🎓 Education & Certifications
 
 - 🎓 **Data Science & Analytics** - Naresh IT, Hyderabad (Oct 2024)
-- 📜 **Bachelor of Science** - SGVU University, Bhopal (May 2025)
+- 📜 **Bachelor of Science** - Sardar Patel University, Balaghat (May 2025)
 - 📜 **Google Advanced Data Analytics Certificate** - Coursera (july 2025)
 
 ---
